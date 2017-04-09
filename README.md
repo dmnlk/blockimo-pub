@@ -16,6 +16,7 @@ spring.datasource.password= `MySQL password`
 
 settings.baseUrl=`your domain ex:blockmo.ml`
 
+load ddl from `ddl` dir
 
 ## build
 ./gradlew build
